@@ -1,4 +1,4 @@
-
+shorten path first : for %I in ("C:\Program Files\Java\jdk1.8.0_202\bin") do @echo %~s
 Solution : Json to Parquet file convert
 
 ***
